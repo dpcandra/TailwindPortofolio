@@ -12,6 +12,7 @@ export default {
     extend: {
       colors : {
         primary: '#14b8a6',
+        secondary: '#647d8b',
         dark : '#0f172a'
       },
       screens:{

@@ -8,8 +8,8 @@ const Hero = () => {
 
                     <div className="w-full self-center px-4 lg:w-1/2">
                         <h1 className="text-base font-semibold text-primary md:text-xl">Halo Semua 👋, saya <span className="block font-bold text-dark text-4xl mt-1 lg:text-5xl">Candra Dharma</span></h1>
-                        <h2 className="font-medium text-slate-500 text-lg mb-5 lg:text-2xl">Full Stact <span className="text-dark">Web Programmer</span></h2>
-                        <p className="font-medium text-slate-400 mb-10 leading-relaxed">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quisquam.</p>
+                        <h2 className="font-medium text-secondary text-lg mb-5 lg:text-2xl">Full Stact <span className="text-dark">Web Programmer</span></h2>
+                        <p className="font-medium text-secondary mb-10 leading-relaxed">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quisquam.</p>
 
                         <ButtonMain link="https://instagram.com/kcandradp" label="Hubungi Saya"/>
                     </div>
