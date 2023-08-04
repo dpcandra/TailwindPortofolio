@@ -8,8 +8,8 @@ const Portofolio = () => {
                 <div className="w-full px-4">
                     <div className="max-w-xl mx-auto text-center mb-16">
                         <h4 className="font-semibold text-lg text-primary mb-2">Portofolio</h4>
-                        <h2 className="font-bold text-dark text-3xl mb-4">My Project</h2>
-                        <p className="font-medium text-md text-secondary">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur sunt at tempore enim ipsam delectus quo sequi voluptatum velit est?</p>
+                        <h2 className="font-bold text-dark text-3xl mb-4 sm:text-4xl lg:text-5xl">My Project</h2>
+                        <p className="font-medium text-md text-secondary md:text-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur sunt at tempore enim ipsam delectus quo sequi voluptatum velit est?</p>
                     </div>
                 </div>
 
