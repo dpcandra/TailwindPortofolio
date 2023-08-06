@@ -1,4 +1,4 @@
-import ButtonMain from "./items/buttonMain";
+import ButtonMain from "./Components/buttonMain";
 
 const Hero = () => {
     return (

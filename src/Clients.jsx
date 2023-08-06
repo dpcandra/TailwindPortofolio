@@ -1,4 +1,4 @@
-import LogoClient from "./items/LogoClient";
+import LogoClient from './Components/LogoClient';
 
 const Clients = () => {
     return(

@@ -1,4 +1,4 @@
-import SocialIcons from "./items/SocialIcons";
+import SocialIcons from "./Components/SocialIcons";
 
 const About = () => {
     return (
